@@ -1,0 +1,22 @@
+{
+  "name": "aula03sdmanha1503",
+  "version": "1.0.0",
+  "description": "Um teste de aula",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmamorim/Aula03SDManha1503.git"
+  },
+  "author": "Marcelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmamorim/Aula03SDManha1503/issues"
+  },
+  "homepage": "https://github.com/mmamorim/Aula03SDManha1503#readme",
+  "dependencies": {
+    "pdfjs": "^2.4.7"
+  }
+}
